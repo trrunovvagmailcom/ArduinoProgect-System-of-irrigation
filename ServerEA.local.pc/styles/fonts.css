@@ -1,0 +1,12 @@
+@font-face {
+font-family: "Cube-font"; 
+src: url("fonts/cube-font.ttf") format("truetype"); 
+font-style: normal; 
+font-weight: normal; 
+}
+@font-face {
+font-family: "Roboto"; 
+src: url("fonts/Roboto-Light.ttf") format("truetype"); 
+font-style: normal; 
+font-weight: normal; 
+}
